@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Mirar lolsito",
+      "day": "Miercoles a las 22:10",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Noche de juegos",
+      "day": "hoy a las 22hs",
+      "reminder": false,
+      "id": 2
+    }
+  ]
+}
