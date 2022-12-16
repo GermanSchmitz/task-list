@@ -4,7 +4,7 @@
       "id": 1,
       "text": "Terminar modulo 3",
       "day": "Agosto 5 a las 12:00",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "id": 3,
       "text": "Investigar bootstrap",
       "day": "Agosto 6 a las 10:00",
-      "reminder": true
+      "reminder": false
     }
   ]
 }
