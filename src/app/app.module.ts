@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-
+import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/header/header.component';
@@ -19,7 +19,7 @@ import { AddTaskComponent } from './components/add-task/add-task.component';
     TasksItemComponent,
     AddTaskComponent,
   ],
-  imports: [BrowserModule, FontAwesomeModule, HttpClientModule],
+  imports: [BrowserModule, FontAwesomeModule, HttpClientModule, FormsModule],
   providers: [],
   bootstrap: [AppComponent],
 })
